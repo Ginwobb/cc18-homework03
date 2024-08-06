@@ -139,6 +139,7 @@ header{
     width: 100%;
 }
 .btn-area{
+    margin-top: 50px;
     width: 30px;
     height: 30px;
     border-radius: 50%;
